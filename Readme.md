@@ -6,3 +6,5 @@ to make a a vCard
 3)styled the page with framework Bulma and used their prebuilt column selectors to make page responsive
 
 By Kurt Wyckoff
+
+view at : tiy-kurt-vcard.surge.sh
