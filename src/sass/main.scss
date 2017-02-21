@@ -1,0 +1,59 @@
+@import "bulma";
+
+html {
+  background:black;
+}
+.container{
+  background:white;
+  padding-bottom: 50px;
+}
+
+.header {
+  height: 120px;
+  border: 1px solid lightgrey;
+  background: rgb(29,29,29);
+  color: white;
+  font-weight: lighter;
+  font-size: 70px;
+  font-family: serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.label {
+  color: rgb(90,166,165);
+}
+
+.label, .value {
+  display: inline-block;
+}
+
+.url {
+  color:black;
+  text-decoration:underline;
+}
+
+.value{
+  color:grey;
+}
+
+p {
+  font-size: 34px;
+  font-weight: bold;
+  text-align: left;
+  font-family: sans-serif;;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.img-circle {
+  border-radius: 50%;
+  height: 110px;
+  width: 110px;
+  margin: 55px auto;
+  display: block;
+}
+
+.column1 {
+  padding-left:  90px;
+}
